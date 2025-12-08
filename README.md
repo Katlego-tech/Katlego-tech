@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DotKirito
+- 👋 Hi, I’m @KatlegoTlhapiso
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning different programming languages
 
