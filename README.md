@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DotKirito
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning different coding languages
+- 🌱 I’m currently learning different programming languages
 
 <!---
 DotKirito/DotKirito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
