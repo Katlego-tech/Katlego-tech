@@ -18,7 +18,7 @@ I build backend services, AI-agent pipelines and payments software in Python and
 - **AI & agents:** LangGraph, LangChain, Ollama, IBM watsonx.ai
 - **Data:** PostgreSQL, SQLite, Redis
 - **Cloud & tooling:** AWS (Lambda, S3, SQS, EventBridge, DynamoDB), Docker, Linux, Git
-- **Testing:** Pytest, JUnit 5, Foundry, test-driven development
+- **Testing:** Pytest, JUnit 5, test-driven development
 
 ---
 
