@@ -6,7 +6,7 @@ I build backend services, AI-agent pipelines and payments software in Python and
 - 🎓 Software Engineering student at WeThinkCode_, Johannesburg (Sep 2025 – Dec 2026)
 - 🛠️ Campus IT Support Technician at WeThinkCode_ (Nov 2025 – Aug 2026), where I built CampusNode, a Django + LangChain + Ollama ticket-triage tool
 - 📊 University accounting studies up to 3rd year, which is why I keep building payments and compliance software
-- 🐧 Daily setup: Pop!_OS, Ghostty, JetBrains IDEs
+- 🐧 Daily setup: Pop!_OS and JetBrains IDEs
 
 ---
 
